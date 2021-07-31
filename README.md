@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harry-0630
-- -  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
+-  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
 -  **Languages :** Python, C, HTML, CSS & Java
 -  **Hobbies :** Gaming 🎮 & Music 🎧
 -  **Tech Enthusiast** 💻
