@@ -11,4 +11,4 @@ Harry-0630/Harry-0630 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/TheOneAndOnly"><img src="https://github.com/Harry-0630/Harry-0630/master/devcard.svg" width="400" alt="Harry's Dev Card"/></a>
+<a href="https://app.daily.dev/TheOneAndOnly"><img src="https://github.com/Harry-0630/Harry-0630/blob/main/devcard.svg" width="400" alt="Harry's Dev Card"/></a>
