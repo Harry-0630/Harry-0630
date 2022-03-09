@@ -1,7 +1,5 @@
-<img src="/02.png" width="100%">
+<img src="/01.png" width="100%">
 
-<h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-0630&label=Profile%20views&color=0e75b6&style=flat" alt="harry-0630" /> </p>
 
