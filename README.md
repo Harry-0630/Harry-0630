@@ -1,4 +1,4 @@
-<img src="/HH.gif" width="100%">
+<img src="/02.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A student from India</h3>
